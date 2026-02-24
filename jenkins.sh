@@ -16,4 +16,4 @@ df -h /tmp
 sudo systemctl restart jenkins
 
 
-#jenkins setup steps 1
+#jenkins setup steps 12
